@@ -6,13 +6,13 @@ Le script génère automatiquement un temple bouddhiste taïwanais : socle, toit
 # Aperçu
 ![Temple](assets/temple_python.jpg)
 
-#Utilisation
+# Utilisation
 
 - Ouvrir Autodesk Maya
 - Charger HULLOT_Dounia_Temple.py dans le Script Editor
 - Exécuter le script pour générer le temple
 
-#Auteur
+# Auteur
 
 Dounia Hullot
 Étudiante L3 en Arts et Technologies de l’Image (ATI – Paris 8)
