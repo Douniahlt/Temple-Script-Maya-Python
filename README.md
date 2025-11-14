@@ -4,7 +4,7 @@ Ce projet est un TP de modélisation procédurale réalisé en Python avec maya.
 Le script génère automatiquement un temple bouddhiste taïwanais : socle, toits, colonnes, escalier, décorations, dragons sinusoïdaux et pagode.
 
 # Aperçu
-![Temple](assets/temple_python.png)
+![Temple](assets/temple_python.jpg)
 
 #Utilisation
 
